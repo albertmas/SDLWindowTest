@@ -1,0 +1,8 @@
+﻿  Source.cpp
+c:\users\albertmc12\documents\visual studio 2015\projects\project4\project4\source.cpp(13): warning C4101: 'bmask': unreferenced local variable
+c:\users\albertmc12\documents\visual studio 2015\projects\project4\project4\source.cpp(13): warning C4101: 'gmask': unreferenced local variable
+c:\users\albertmc12\documents\visual studio 2015\projects\project4\project4\source.cpp(13): warning C4101: 'amask': unreferenced local variable
+c:\users\albertmc12\documents\visual studio 2015\projects\project4\project4\source.cpp(12): warning C4101: 'surface': unreferenced local variable
+c:\users\albertmc12\documents\visual studio 2015\projects\project4\project4\source.cpp(13): warning C4101: 'rmask': unreferenced local variable
+  Project4.vcxproj -> c:\users\albertmc12\documents\visual studio 2015\Projects\Project4\Debug\Project4.exe
+  Project4.vcxproj -> c:\users\albertmc12\documents\visual studio 2015\Projects\Project4\Debug\Project4.pdb (Partial PDB)
